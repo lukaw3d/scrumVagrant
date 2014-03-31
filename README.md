@@ -1,4 +1,4 @@
-vagrant-yeoman
+modified vagrant-yeoman from https://github.com/arafalov/vagrant-yeoman
 ==============
 
 Setting up Yeoman development environment under Vagrant. Basic steps: 
