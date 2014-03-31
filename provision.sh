@@ -20,8 +20,20 @@ echo "Installing Yeoman and generators"
 npm install -g yo
 npm install -g generator-webapp
 npm install -g generator-angular
+npm install -g grunt-cli
+npm install -g load-grunt-tasks
+npm install -g time-grunt
+npm install -g jshint-stylish
+npm install -g coffee-script
 
 echo "Installing compass support"
 gem update --system
 gem install compass
 npm install grunt-contrib-compass --save-dev
+
+
+#vagrant ssh
+# cd ~/projects/scrumble/scrumbleweb
+# sudo npm install
+# bower install
+# grunt serve
