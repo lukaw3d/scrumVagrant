@@ -1,7 +1,9 @@
-modified vagrant-yeoman from https://github.com/arafalov/vagrant-yeoman
+Modified vagrant-yeoman
 ==============
 
-Setting up Yeoman development environment under Vagrant. Basic steps: 
+Base from https://github.com/arafalov/vagrant-yeoman.
+
+Basic steps: 
 
 * Install `Vagrant`, `VirtualBox`
 * Clone/copy `scrumble` repository into `projects` folder
